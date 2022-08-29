@@ -2,7 +2,7 @@
 Compresses and decompresses files to/from LH and LZ formats.
 
 # Usage
-<code>NSMBWCompression.exe &lt;mode&gt; &lt;source&gt; &lt;destination&gt;</code>
+	NSMBWCompression.exe <mode> <source> <destination>
 
 source:		Path to the source file to compress or decompress.
 
