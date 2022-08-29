@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSMBWCompression", "NSMBWCompression\NSMBWCompression.csproj", "{AC93D590-EC5E-4616-97B6-71BF371EACE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC93D590-EC5E-4616-97B6-71BF371EACE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC93D590-EC5E-4616-97B6-71BF371EACE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC93D590-EC5E-4616-97B6-71BF371EACE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC93D590-EC5E-4616-97B6-71BF371EACE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB376B07-D2CD-4208-AFDF-8041CBCCF556}
+	EndGlobalSection
+EndGlobal
